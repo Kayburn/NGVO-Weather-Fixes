@@ -1,0 +1,13 @@
+{
+  "OutputDirs": [
+    "C:\\path\\to\\your\\MO2\\mods\\Weather Adjustment",
+    "C:\\path\\to\\a\\backup\\folder"
+  ],
+  "OrderedSourcePaths": [
+    "C:\\path\\to\\your\\Data\\Skyrim.esm",
+    "C:\\path\\to\\your\\Data\\Update.esm",
+    "C:\\path\\to\\your\\Data\\Dawnguard.esm",
+    "C:\\path\\to\\your\\Data\\Dragonborn.esm",
+    "C:\\path\\to\\your\\mods\\NAT.ENB - ESP WEATHER PLUGIN\\NAT-ENB.esp"
+  ]
+}
